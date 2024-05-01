@@ -1,7 +1,5 @@
 ![Imagem de Boas Vindas](./header-gif.gif)
 
-## Olá! 👋
-
 ### 🤔 Quem sou eu? 
 Meu nome é Paulo Gabriel e sou um estudante de programação. Tenho prazer em aprender e o meu principal objetivo é trabalhar para uma empresa de tecnologia como Desenvolvedor Full Stack. 
 
