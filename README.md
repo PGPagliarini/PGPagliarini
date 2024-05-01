@@ -5,9 +5,9 @@ Meu nome é Paulo Gabriel e sou um estudante de programação. Tenho prazer em a
 
 - 🌱 Atualmente estou aprendendo React.js
 - 💻 Desenvolvo sites para empresas
-- 💪 Curto treinar
+- 🏋🏻‍♂ Curto treinar
 - 🎾 Praticante de esportes
-- 👘 Luto jiu-jítsu
+- 🥋 Luto jiu-jítsu
 - 🎮 Valorant Player
 
 ## 🌟 Principais Tecnologias
