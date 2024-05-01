@@ -21,7 +21,7 @@ Meu nome é Paulo Gabriel e sou um estudante de programação. Tenho prazer em a
 
 
 
-## Status
+## :chart_with_upwards_trend: Status
 <div align="center">
 
 <!-- [![Status do perfil do Paulo Gabriel Pagliarini](https://github-readme-stats.vercel.app/api?username=PGPagliarini&hide=prs,issues,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,7 +35,7 @@ Meu nome é Paulo Gabriel e sou um estudante de programação. Tenho prazer em a
 
 </div>
 
-## Me encontre
+## 🌐 Me encontre
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gabriel-pagliarini/)
 
 <!--
