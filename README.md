@@ -1,4 +1,12 @@
-### Hi there 👋
+## Olá 👋
+
+### Quem sou eu?
+Meu nome é Paulo Gabriel e sou um Desenvolvedor Web. Tenho prazer em aprender e o meu principal objetivo é me tornar um Desenvolvedor Full Stack. 
+
+- 🌱 Atualmente estou aprendendo React.js
+- 💪 Curto treinar
+- 🎾 Gosto muito de praticar esportes
+- 👘 Luto jiu-jítsu
 
 <!--
 **PGPagliarini/PGPagliarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
