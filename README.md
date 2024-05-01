@@ -5,7 +5,7 @@ Meu nome é Paulo Gabriel e sou um Desenvolvedor Web. Tenho prazer em aprender e
 
 - 🌱 Atualmente estou aprendendo React.js
 - 💪 Curto treinar
-- 🎾 Gosto muito de praticar esportes
+- 🎾 Praticante de esportes
 - 👘 Luto jiu-jítsu
 
 <!--
