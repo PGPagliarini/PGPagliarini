@@ -1,7 +1,7 @@
 ![Imagem de Boas Vindas](./gif-header.gif)
 
 ### 🤔 Quem sou eu? 
-Meu nome é Paulo Gabriel e sou um estudante de programação. Tenho anseio em aprender e sair da minha zona de conforto, o meu principal objetivo é poder contribuir em uma empresa como Desenvolvedor Web. 
+Meu nome é Paulo Gabriel e sou um estudante de programação. Apaixonado por tecnologia, amo aprender e o meu principal objetivo é poder contribuir em uma empresa como Desenvolvedor Web. 
 
 - 🌱 Atualmente estou aprendendo React.js
 - 💻 Desenvolvo sites para empresas
