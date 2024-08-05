@@ -1,14 +1,13 @@
 ![Imagem de Boas Vindas](./gif-header.gif)
 
 ### 🤔 Quem sou eu? 
-Meu nome é Paulo Gabriel e sou um estudante de programação. Apaixonado por tecnologia, amo aprender e o meu principal objetivo é poder contribuir em uma empresa como Desenvolvedor Web. 
+Meu nome é Paulo Gabriel e sou um estudante de programação. Apaixonado por tecnologia desde criança, busco o aprendizado constante e o meu principal objetivo é contribuir com os meus conhecimentos atuando como Desenvolvedor. 
 
 - 🌱 Atualmente estou aprendendo React.js
 - 💻 Desenvolvo sites para empresas
 - 🏋🏻‍♂ Curto treinar
 - 🎾 Praticante de esportes
-- 🥋 Luto jiu-jítsu
-- 🎮 Valorant Player
+- 🎮 Player
 
 ## 🌟 Principais Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px" />
